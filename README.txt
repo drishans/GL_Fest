@@ -41,4 +41,4 @@ KEY BINDS:
   PgDn/PgUp  Zoom in and out
   ESC        Exit
   
-Time spent: 30+ hours
+Time spent: 35+ hours
