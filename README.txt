@@ -3,7 +3,7 @@ Drishan Sarkar: Final Project
 
 Scene of a "festival" with lighting, textures, and objects.
 Skybox can be swapped to night by pressing F5.
-Heavy code re-use from class examples.
+Some code re-use from CSCI4229/5229 examples.
 Recent changes: 
    lake with water texture
    simple toon shader applied to screen
