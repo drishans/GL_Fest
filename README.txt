@@ -6,7 +6,7 @@ Scene of a "festival" with lighting, textures, and objects.
 Recent changes: 
    create lake - map water texture
    simple cel shader applied to screen
-   removed objects - cause display error
+   removed objects causing display error
    skybox can be swapped to night with F5
  
 Build and run with this:
