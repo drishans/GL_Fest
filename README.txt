@@ -2,12 +2,12 @@ Drishan Sarkar: Final Project
 12/01/2020
 
 Scene of a "festival" with lighting, textures, and objects.
-Skybox can be swapped to night by pressing F5.
-Some code taken from CSCI4229/5229 examples.
+
 Recent changes: 
    lake with water texture
    simple toon shader applied to screen
    removed objects - cause display error
+   skybox can be swapped to night by pressing F5.
  
 Build and run with this:
    make;./final;make clean
