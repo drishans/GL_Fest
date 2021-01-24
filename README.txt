@@ -4,10 +4,10 @@ Drishan Sarkar: Final Project
 Scene of a "festival" with lighting, textures, and objects.
 
 Recent changes: 
-   lake with water texture
-   simple toon shader applied to screen
+   create lake - map water texture
+   simple cel shader applied to screen
    removed objects - cause display error
-   skybox can be swapped to night by pressing F5.
+   skybox can be swapped to night with F5
  
 Build and run with this:
    make;./final;make clean
